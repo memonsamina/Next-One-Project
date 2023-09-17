@@ -1,0 +1,40 @@
+.color {
+    background-color: #4D2C5E;
+
+}
+
+.back-colo-2 {
+    background-color: #F0F2F3;
+
+
+}
+
+.pic-set {
+    top: -290px;
+    right: -10px;
+}
+
+.middle-imgg {
+    right: 50px;
+}
+
+.card-background {
+    border-radius: 14px;
+    background: #4D2C5E !important;
+    text-align: center;
+}
+
+.align {
+    text-align: center;
+}
+
+.font-size-5 {
+    font-size: 10px;
+    margin-top: 0;
+    margin-bottom: 0;
+
+}
+
+.btn-cOlor {
+    background-color: #FF7426;
+}

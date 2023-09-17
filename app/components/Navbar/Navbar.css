@@ -1,0 +1,15 @@
+.bg-color{
+    background-color:#FDF8EE ;
+    background-image: url("../../images/assets/bg-image.svg") ;
+}
+.text-color{
+    color: #FF7426;
+}
+.btn-color{
+    background-color: #4D2C5E;
+} 
+
+.length{
+    width: 260px;
+}
+
